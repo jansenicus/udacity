@@ -9,6 +9,10 @@ Course 1 Project CharityML
 
 - [HeatherDriver](https://github.com/HeatherDriver/Supervised-ML/blob/main/Finding_Donors.ipynb) 0.8719, 0.7547
 - [jrbeverly](https://github.com/jrbeverly/charityml/blob/master/notebook.ipynb) 0.8719, 0.7547
+- [kchebs](https://github.com/kchebs/CharityML_Python/blob/master/finding_donors.ipynb) 0.8719, 0.7547
+- [somya1212](https://github.com/somya1212/Finding-Donors-for-CharityML/blob/master/finding_donors.ipynb) 0.8719, 0.7547
+- [AhMeDxHaMiDo](https://github.com/AhMeDxHaMiDo/Finding-Donors-for-CharityML/blob/master/finding-donors-for-charityML.ipynb)
+
 - [GuillaumeVerb](https://github.com/GuillaumeVerb/ML-finding-donors/blob/main/finding_donors.ipynb) 0.8718, 0.7545
 - [jaworow2](https://github.com/jaworow2/udacityIntroMlProject1/blob/master/finding_donors/finding_donors.ipynb) 0.8716, 0.7545
 
