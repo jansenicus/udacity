@@ -5,6 +5,7 @@ Jansen's Udacity Course Notes
 Course 1 Project CharityML
 
 - [Abdelmenam-Tarek-Abdelmenam](https://github.com/Abdelmenam-Tarek-Abdelmenam/Finding-Donors-for-CharityML-/blob/main/donors.ipynb)
+- [abdelmenamtarek @ Kaggle](https://www.kaggle.com/abdelmenamtarek/finding-donors-for-charityml)
 
 - [HeatherDriver](https://github.com/HeatherDriver/Supervised-ML/blob/main/Finding_Donors.ipynb) 0.8719, 0.7547
 - [jrbeverly](https://github.com/jrbeverly/charityml/blob/master/notebook.ipynb) 0.8719, 0.7547
